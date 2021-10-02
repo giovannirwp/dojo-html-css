@@ -9,6 +9,11 @@ Iremos desenvolver um layout de um login
 ### 📋 Explicação
 Já existe, o ```reset.css``` e ``` index.html ```
 Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
+No ``` index.html ```, já está sendo importando os seguinte css
+```   
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/reset.css" />
+```
 
 ## 🚀 Bora, vamos começar?
 🔩 Muito bom, vamos começar a desenvolver o nosso layout 😀
