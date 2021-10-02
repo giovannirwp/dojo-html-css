@@ -11,7 +11,7 @@ Já existe, o ```reset.css``` e ``` index.html ```
 Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
 
 ## 🚀 Bora, vamos começar?
-🔩 Muito bom, vamos começar a desenvolver o nosso layout 🙂
+🔩 Muito bom, vamos começar a desenvolver o nosso layout 😀
 
 ## 🥇 Começando
 Vai precisar, adicionar no background essa imagem:<br />
@@ -23,9 +23,14 @@ Cor de background e texto: <strong>#820AD1</strong>
 ## 📦 Desenvolvimento
 O desenvolvimento do projeto, deve ocorrer no ``` index.html ``` e ``` style.css ```
 
-## 🎁 Expressões de gratidão
+## 🐾 Finalização
 
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
+No final desse dojo, você com certeza vai estar bem melhor com html e css.
+E aprender, os seguintes temas 😀
+
+* Seguir um layout, que o designer desenvolveu
+* Semantica do html5
+* Css e Pseudo-elementos
+* Trabalhar com posicionamento
+* Distribuir cores no css
+
