@@ -15,4 +15,4 @@ Vai precisar, adicionar no background essa imagem:<br />
 Cor de background e texto: <strong>#820AD1</strong>
 
 ## 📦 Desenvolvimento
-O Desenvolvimento do projeto, deve ocorrer no ``` index.html ```
+O Desenvolvimento do projeto, deve ocorrer no ``` index.html ``` e ``` style.css ```
