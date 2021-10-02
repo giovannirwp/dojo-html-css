@@ -11,6 +11,5 @@ Vai precisar, adicionar no background essa imagem:<br />
 🔧 Essa imagem já existe, no caminho <strong>/img/background.png</strong>
 
 ## 🎁 Paleta de cores
-cor de background e texto: <font color="#820AD1">#820AD1</font>
-<font color="Green">Font color is green</font>
+cor de background e texto: <strong>#820AD1</strong>
 
