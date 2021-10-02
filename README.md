@@ -6,8 +6,14 @@ Iremos desenvolver um layout de um login
 
 <img src="https://raw.githubusercontent.com/giovannirwp/dojo-html-css/main/img/layout.png" widt="750" />
 
+### 📋 Explicação
+Já existe, o ```reset.css``` e ``` index.html ```
+Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
 
-## 🚀 Começando
+## 🚀 Bora, vamos começar?
+🔩 Muito bom, vamos começar a desenvolver o nosso layout 🙂
+
+## 🥇 Começando
 Vai precisar, adicionar no background essa imagem:<br />
 🔧 Essa imagem já existe, no caminho <strong>/img/background.png</strong>
 
@@ -15,4 +21,4 @@ Vai precisar, adicionar no background essa imagem:<br />
 Cor de background e texto: <strong>#820AD1</strong>
 
 ## 📦 Desenvolvimento
-O Desenvolvimento do projeto, deve ocorrer no ``` index.html ``` e ``` style.css ```
+O desenvolvimento do projeto, deve ocorrer no ``` index.html ``` e ``` style.css ```
