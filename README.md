@@ -22,3 +22,10 @@ Cor de background e texto: <strong>#820AD1</strong>
 
 ## 📦 Desenvolvimento
 O desenvolvimento do projeto, deve ocorrer no ``` index.html ``` e ``` style.css ```
+
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢
+* Convide alguém da equipe para uma cerveja 🍺 
+* Obrigado publicamente 🤓.
+* etc.
