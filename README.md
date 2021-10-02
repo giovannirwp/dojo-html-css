@@ -12,5 +12,7 @@ Vai precisar, adicionar no background essa imagem:<br />
 🔧 Essa imagem já existe, no caminho <strong>/img/background.png</strong>
 
 ## 🖇️ Paleta de cores
-cor de background e texto: <strong>#820AD1</strong>
+Cor de background e texto: <strong>#820AD1</strong>
 
+## 📦 Desenvolvimento
+O Desenvolvimento do projeto, deve ocorrer no ``` index.html ```
