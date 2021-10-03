@@ -11,7 +11,8 @@ Já existe, o ```reset.css``` e ``` index.html ```
 Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
 
 No arquivo ``` index.html ```, já está sendo importando os seguinte css
-```   
+```     
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/reset.css" />
 ```
