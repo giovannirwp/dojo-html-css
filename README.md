@@ -1,6 +1,9 @@
 ## Dojo de html e css
 Iremos desenvolver um layout de um login
 
+## fazer o clone do repositório
+```git@github.com:giovannirwp/dojo-html-css.git```
+
 ## 🎁 Objetivo do dojo
 📌 Esse dojo, tem como objetivo de criar um tela de login. Com o seguinte layout:
 
